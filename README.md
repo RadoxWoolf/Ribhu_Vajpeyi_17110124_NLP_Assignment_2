@@ -24,7 +24,7 @@ A: 5 Random sentences genrerated using Unigram:
     3. He would have made a bag full of apples
     4. Where was the city which who had
     5. Countryside was a beautiful flower blooming in the dark night of the winter cold christmas where the cakes were nice
-    ....
+    and so on
     
    We see that as the order of n-grams increases, the readability increases. This is expected since more the order of the n-gram, more the context (before it) of the word is taken into consideration thus increasing a probability of selection of better words
 

@@ -18,13 +18,14 @@ A: 5 Random sentences genrerated using Unigram:
     4. Of course of the object she was at hand and disposed to walk
     5. He said so dull for a fair the day to return that he entered this kind
     
-    5 Random sentences genrerated using Trigram:
+   5 Random sentences genrerated using Trigram:
     1. You had the book where all the time at the bakery
     2. We all cared about that what was it in the box
     3. He would have made a bag full of apples
     4. Where was the city which who had
     5. Countryside was a beautiful flower blooming in the dark night of the winter cold christmas where the cakes were nice
-    and so on
+    
+   and so on
     
    We see that as the order of n-grams increases, the readability increases. This is expected since more the order of the n-gram, more the context (before it) of the word is taken into consideration thus increasing a probability of selection of better words
 
